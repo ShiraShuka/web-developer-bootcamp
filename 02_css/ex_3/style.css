@@ -1,15 +1,15 @@
 body {
 	max-width: 700px;
 	width: 80%;
-	border: 20px solid #c7d1e0;
+	border: 20px solid #BDC2C8;
 	margin: 3% auto;
 	padding: 0 3%;
 }
 
 .date-title {
 	text-transform: uppercase;
-	color: #3674d1;
-	letter-spacing: 3px;
+	color: #3494d1;
+	letter-spacing: 0.2em;
 	margin: 0px;
 }
 
@@ -18,7 +18,7 @@ body {
 }
 
 .first-paragraph {
-	border-left: 5px solid #c7d1e0;
+	border-left: 5px solid #BDC2C8;
 	padding: 0 0 0 1%;
 }
 
@@ -26,5 +26,5 @@ hr {
 	border: 0;
     height: 1px;
     margin: 5%;
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), #c7d1e0, rgba(0, 0, 0, 0));
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), #BDC2C8, rgba(0, 0, 0, 0));
 }
